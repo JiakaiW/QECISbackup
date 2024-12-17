@@ -1,5 +1,5 @@
-from FlexibleQECSim.circuit_builder import *
-from FlexibleQECSim.error_model import *
+from QECISbackup.circuit_builder import *
+from QECISbackup.error_model import *
 
 import time
 

@@ -1,4 +1,4 @@
-from FlexibleQECSim.instruction_generators import *
+from QECISbackup.instruction_generators import *
 
 
 

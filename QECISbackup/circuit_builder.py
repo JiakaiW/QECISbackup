@@ -16,7 +16,7 @@ import json
 import sys
 import zipfile
 import pickle
-from FlexibleQECSim.error_model import *
+from QECISbackup.error_model import *
 import time
 
 

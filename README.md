@@ -1,4 +1,4 @@
-# FlexibleQECSim
+# QECISbackup
 
 ```
 pip3 install git+https://github.com/JiakaiW/QECISbackup
