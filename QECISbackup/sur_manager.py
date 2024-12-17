@@ -7,7 +7,7 @@
 # import json
 # import os
 # import uuid
-# from EfficientSurfaceCodeSim.job import *
+# from QECISbackup.job import *
 # import shutil
 # from dataclasses import dataclass
 # import multiprocessing

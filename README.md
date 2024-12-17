@@ -23,7 +23,7 @@ pip3 install git+https://github.com/JiakaiW/QECISbackup
 
 ### Direct Monte-Carlo usage with distributed computing (I used HTCondor):
 1. Use Docker to build a container and store in DockerHub [(link to repo)](https://hub.docker.com/r/jiakaiw/surfacesimulationtest/tags).
-2. Generate decoding problem instances [(job class)](EfficientSurfaceCodeSim/job.py)) and send those instances to distributed computing
+2. Generate decoding problem instances [(job class)](QECISbackup/job.py)) and send those instances to distributed computing
 3. Gather those decoding results in form of JSON files
 4. Data analytics on my local computer
 
