@@ -1,7 +1,7 @@
 # FlexibleQECSim
 
 ```
-pip3 install git+https://github.com/JiakaiW/FlexibleQECSim
+pip3 install git+https://github.com/JiakaiW/QECISbackup
 ```
 
 ![Structure of the package](assets/PackageDescription.png)
